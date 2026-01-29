@@ -1,6 +1,6 @@
-# 🎶 AlgoRhythm - Music Popularity Predictor
+# 🎶 PopMeter - Music Popularity Predictor
 
-**AlgoRhythm** is an AI-powered machine learning application that predicts the popularity of a song based on its musical attributes. Built using Python, scikit-learn, and Streamlit, this project demonstrates how audio metadata can be used to forecast listener preferences and potential chart success.
+**PopMeter** is an AI-powered machine learning application that predicts the popularity of a song based on its musical attributes. Built using Python, scikit-learn, and Streamlit, this project demonstrates how audio metadata can be used to forecast listener preferences and potential chart success.
 
 ---
 
